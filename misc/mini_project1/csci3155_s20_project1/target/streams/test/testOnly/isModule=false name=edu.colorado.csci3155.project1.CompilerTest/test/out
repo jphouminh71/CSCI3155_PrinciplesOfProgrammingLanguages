@@ -1,0 +1,18 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSuite Starting - CompilerTest[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - CompilerTest: simple expression 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - CompilerTest: simple expression 1 (65 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - CompilerTest: simple expression 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - CompilerTest: simple expression 2 (12 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - CompilerTest: minus test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - CompilerTest: minus test (5 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - CompilerTest: division test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - CompilerTest: division test (3 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - CompilerTest: simple expression 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - CompilerTest: simple expression 3 (2 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - CompilerTest: simple expression 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - CompilerTest: simple expression 4 (3 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - CompilerTest: cosine expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - CompilerTest: cosine expression (2 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - CompilerTest: sine expression[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - CompilerTest: sine expression (2 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSuite Completed - CompilerTest (164 milliseconds)[0m[0m

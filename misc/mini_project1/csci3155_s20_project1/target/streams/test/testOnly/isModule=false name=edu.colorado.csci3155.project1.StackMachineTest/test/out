@@ -1,0 +1,28 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSuite Starting - StackMachineTest[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - StackMachineTest: stack machine test 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - StackMachineTest: stack machine test 1 (23 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - StackMachineTest: logarithm test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - StackMachineTest: logarithm test (2 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - StackMachineTest: exponent test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - StackMachineTest: exponent test (2 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - StackMachineTest: multiplication test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - StackMachineTest: multiplication test (1 millisecond)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - StackMachineTest: division test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - StackMachineTest: division test (2 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - StackMachineTest: subtraction test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - StackMachineTest: subtraction test (0 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - StackMachineTest: stack machine test 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - StackMachineTest: stack machine test 2 (2 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - StackMachineTest: stack machine test 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - StackMachineTest: stack machine test 5 (1 millisecond)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - StackMachineTest: sine test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - StackMachineTest: sine test (1 millisecond)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - StackMachineTest: cosine test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - StackMachineTest: cosine test (47 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - StackMachineTest: divide by zero[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - StackMachineTest: divide by zero (1 millisecond)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - StackMachineTest: bad logarithm test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - StackMachineTest: bad logarithm test (15 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Starting - StackMachineTest: empty stack test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mTest Succeeded - StackMachineTest: empty stack test (2 milliseconds)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSuite Completed - StackMachineTest (159 milliseconds)[0m[0m
